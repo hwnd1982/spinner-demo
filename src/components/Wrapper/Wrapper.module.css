@@ -1,0 +1,14 @@
+.container {
+  padding-left: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 550px;
+  min-height: 500px;
+}
+/* 
+@media (min-width: 768px) {
+  .container {
+    padding: 0 30px;
+  }
+} */

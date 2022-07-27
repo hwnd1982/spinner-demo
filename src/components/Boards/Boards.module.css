@@ -1,0 +1,12 @@
+.container {
+  padding: 50px;
+  background-color: #fff;
+  border-radius: 25px;
+  display: flex;
+}
+
+/* @media (min-width: 768px) {
+  .container {
+    padding: 30px;
+  }
+} */
